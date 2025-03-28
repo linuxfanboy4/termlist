@@ -1,4 +1,3 @@
-my project info to understand you my project well and i don't completely never fully need feedback and suggestions and pls don't gave me that:
 # TermList - Advanced Terminal Task Manager
 
 ## Overview
